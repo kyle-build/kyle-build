@@ -4,9 +4,9 @@
 
 ⚙️ 全栈工程师：专注于 **高可扩展后端 + 高体验前端**
 
-🧠 关注领域：架构设计、性能优化、工程化
+🧠 关注领域：架构设计、性能优化、工程化、Agent
 
-🌐 追求代码的可读性、可演进性与可维护性
+🌐 追求代码的可读性、可演进性、可维护性
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,8 @@
 
 ## 📬 Connect
 
-📧 Email：coleonemike@gmail.com
+📧 Email：kyle.io.build@outlook.com
+
 
 
 
