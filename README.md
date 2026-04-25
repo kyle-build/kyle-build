@@ -33,9 +33,10 @@
 
 ## 🎨 Featured Projects
 ### code learning
-[面向前端面试知识库](https://github.com/kyle-build/Code-Knowledge-Base)
-[lynx一个跨端框架解读](https://github.com/kyle-build/lynx-core-learning)
-
+- [面向前端面试知识库](https://github.com/kyle-build/interview-code-base)
+- [lynx一个跨端框架解读](https://github.com/kyle-build/lynx-core-learning)
+- [ai探索之路](https://github.com/kyle-build/ai-learning)
+- [linux核心解读](https://github.com/kyle-build/linux-core-learning)
 
 
 ## 📬 Connect
