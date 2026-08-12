@@ -1,4 +1,4 @@
-# 🧭 Full-Stack Developer
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=FFFFFF&width=820&lines=AI+-+Full-stack+Developer)
 ## 🧩 About Me
 
